@@ -10,13 +10,13 @@ seaborn = "*"
 plotly = "*"
 pingouin = "*"
 optuna = "*"
-fastapi = "*"
-uvicorn = "*"
 pydantic = "*"
 ipywidgets = "*"
 ipykernel = "*"
 pyarrow = "*"
 nbformat = "*"
+fastapi = "*"
+uvicorn = "*"
 
 [dev-packages]
 
